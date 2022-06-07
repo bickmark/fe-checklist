@@ -2,14 +2,14 @@
 
 ## XCode Simulator
 
-[ ] iPhone SE
+### iPhone SE
 
-    [ ] portrait
+- [ ] portrait
     
-    [ ] landscape
+- [ ] landscape
     
-[ ] iPhone 13
+### iPhone 13
 
-    [ ] portrait
+- [ ] portrait
     
-    [ ] landscape
+- [ ] landscape
